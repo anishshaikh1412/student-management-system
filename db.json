@@ -1,0 +1,96 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Kajal Sharma",
+      "rollNumber": "101",
+      "class": "Grade 3",
+      "subject": "Science",
+      "marks": 85,
+      "totalMarks": 100,
+      "examType": "Online Exam",
+      "phone": "9876500001",
+      "email": "kajal.sharma@example.com",
+      "age": 9,
+      "image": "https://i.pravatar.cc/150?img=5"
+    },
+    {
+      "id": "2",
+      "name": "Neeta Rathod",
+      "rollNumber": "102",
+      "class": "Grade 3",
+      "subject": "Maths",
+      "marks": 63,
+      "totalMarks": 100,
+      "examType": "Missed Exam",
+      "phone": "9876500002",
+      "email": "neeta.rathod@example.com",
+      "age": 9,
+      "image": "https://i.pravatar.cc/150?img=32"
+    },
+    {
+      "id": "3",
+      "name": "Amey Gupta",
+      "rollNumber": "103",
+      "class": "Grade 3",
+      "subject": "English Literature",
+      "marks": 56,
+      "totalMarks": 100,
+      "examType": "Class Exam",
+      "phone": "9876500003",
+      "email": "amey.gupta@example.com",
+      "age": 9,
+      "image": "https://i.pravatar.cc/150?img=15"
+    },
+    {
+      "id": "4",
+      "name": "Sharman Doshi",
+      "rollNumber": "104",
+      "class": "Grade 3",
+      "subject": "English Grammar",
+      "marks": 74,
+      "totalMarks": 100,
+      "examType": "Class Exam",
+      "phone": "9876500004",
+      "email": "sharman.doshi@example.com",
+      "age": 9,
+      "image": "https://i.pravatar.cc/150?img=8"
+    },
+    {
+      "id": "5",
+      "name": "Amey Gupta",
+      "rollNumber": "105",
+      "class": "Grade 4",
+      "subject": "Environmental Studies",
+      "marks": 63,
+      "totalMarks": 100,
+      "examType": "Online Exam",
+      "phone": "9876500005",
+      "email": "amey.gupta2@example.com",
+      "age": 10,
+      "image": "https://i.pravatar.cc/150?img=15"
+    },
+    {
+      "id": "6",
+      "name": "Sharman Doshi",
+      "rollNumber": "106",
+      "class": "Grade 4",
+      "subject": "Hindi",
+      "marks": 56,
+      "totalMarks": 100,
+      "examType": "Class Exam",
+      "phone": "9876500006",
+      "email": "sharman.doshi2@example.com",
+      "age": 10,
+      "image": "https://i.pravatar.cc/150?img=8"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin123",
+      "name": "Jaspreet Kaur Ahuja"
+    }
+  ]
+}
